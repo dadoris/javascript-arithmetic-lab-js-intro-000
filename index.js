@@ -20,5 +20,5 @@ function increment(n){
 
 
 function decrement(n){
-  return --number1
+  return --n
 }
