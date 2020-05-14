@@ -14,8 +14,8 @@ function divide(number1, number2){
   return number1 / number2
 }
 
-function increment(number1, increase){
-  return number1 += increase
+function increment(n){
+  return number1 += 1
 }
 
 
