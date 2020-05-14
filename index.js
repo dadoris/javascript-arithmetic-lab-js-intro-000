@@ -19,6 +19,6 @@ function increment(n){
 }
 
 
-function decrement(number1){
-  return number1--
+function decrement(n){
+  return --number1
 }
